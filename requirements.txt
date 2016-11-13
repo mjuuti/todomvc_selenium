@@ -1,0 +1,6 @@
+page_objects==1.1.0
+selenium==3.0.1
+waiting==1.3.0
+chromedriver==2.24.1
+py==1.4.31
+pytest==2.9.2
